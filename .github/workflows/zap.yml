@@ -6,7 +6,7 @@
     # GitHub Token to create issues in the repository
     token: # optional, default is ${{ github.token }}
     # Target URL
-    target: 
+    target: "http://wp6.webvancouverdesign.com"
     # Relative path of the ZAP configuration file
     rules_file_name: # optional
     # The Docker file to be executed
